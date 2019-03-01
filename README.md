@@ -4,10 +4,10 @@ Subject: photo_slideshow.pdf
 
 Submission files: a.txt b.txt c.txt d.txt e.txt
 
-Score: 
-A - Example : 2
-B - Lovely landscapes : 186 867
-C - Memorable moments : 853
-D - Pet pictures : 302 614
-E - Shiny selfies : 125 741
-Total: 616 077
+<b>Score:</b> <br/>
+A - Example : <b>2</b><br/>
+B - Lovely landscapes : <b>186 867</b><br/>
+C - Memorable moments : <b>853</b><br/>
+D - Pet pictures : <b>302 614</b><br/>
+E - Shiny selfies : <b>125 741</b><br/>
+Total: <b>616 077</b>
